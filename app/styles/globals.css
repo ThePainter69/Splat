@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  height: 100vh;
+  width: 100vw;
+  background-color: #ff00ff;
+  font-family: 'Roboto', sans-serif;
+}
+
+@font-face {
+  font-family: 'Splat';
+  src: url('/SPLAT.ttf') format('truetype'); /* Adjust the path to your font file */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ff00c8; /* Color of the scrollbar handle */
+}
+
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+/* Customize the scrollbar thumb */
+scrollbar-thumb {
+  background-color: pink; /* Pink color for the thumb */
+  border-radius: 10px; /* Rounded corners for the thumb */
+}
+/* Customize the scrollbar track */
+::-webkit-scrollbar-track {
+  background-color: black; /* Black color for the track */
+}
+/* For WebKit browsers (Chrome, Safari) */
+/* Customize the scrollbar track */
+::-webkit-scrollbar {
+  width: 12px; /* Width of the scrollbar */
+}
+
+/* Customize the scrollbar thumb */
+::-webkit-scrollbar-thumb {
+  background-color: rgb(255, 0, 234); /* Pink color for the thumb */
+  border-radius: 10px; /* Rounded corners for the thumb */
+}

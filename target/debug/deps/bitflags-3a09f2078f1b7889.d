@@ -1,0 +1,12 @@
+C:\Users\speec\Downloads\SPLATLottery\Splatlottery\target\debug\deps\libbitflags-3a09f2078f1b7889.rmeta: C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\lib.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\iter.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\parser.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\traits.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\public.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\internal.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external\serde.rs
+
+C:\Users\speec\Downloads\SPLATLottery\Splatlottery\target\debug\deps\bitflags-3a09f2078f1b7889.d: C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\lib.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\iter.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\parser.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\traits.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\public.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\internal.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external\serde.rs
+
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\lib.rs:
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\iter.rs:
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\parser.rs:
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\traits.rs:
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\public.rs:
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\internal.rs:
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external.rs:
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external\serde.rs:

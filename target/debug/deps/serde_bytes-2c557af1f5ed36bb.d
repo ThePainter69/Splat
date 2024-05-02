@@ -1,0 +1,10 @@
+C:\Users\speec\Downloads\SPLATLottery\Splatlottery\target\debug\deps\libserde_bytes-2c557af1f5ed36bb.rmeta: C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\lib.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\bytearray.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\bytes.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\de.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\ser.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\bytebuf.rs
+
+C:\Users\speec\Downloads\SPLATLottery\Splatlottery\target\debug\deps\serde_bytes-2c557af1f5ed36bb.d: C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\lib.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\bytearray.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\bytes.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\de.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\ser.rs C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\bytebuf.rs
+
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\lib.rs:
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\bytearray.rs:
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\bytes.rs:
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\de.rs:
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\ser.rs:
+C:\Users\speec\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.14\src\bytebuf.rs:

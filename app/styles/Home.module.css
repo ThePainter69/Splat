@@ -1,0 +1,9 @@
+.wrapper {
+  background-image: url('/test.png');
+  background-size: cover; /* Manually adjust the size to cover the entire body */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: "Tilt Warp", sans-serif;
+  padding-top: 8px;
+  font-size: 35px; /* Adjust the font size as needed */
+}                      

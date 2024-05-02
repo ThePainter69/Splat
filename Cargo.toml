@@ -1,0 +1,16 @@
+[package]
+name = "splat-lottery"
+version = "0.1.0"
+authors = ["NurseTroy Splat"]
+edition = "2021"
+
+[dependencies]
+anchor-lang = "*"
+
+[[bin]]
+name = "splat-lottery"
+path = "solana-smartcontract-solution\\Main.rs"
+
+
+[build-dependencies]
+solana-program = "1.7.0"

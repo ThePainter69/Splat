@@ -1,0 +1,25 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.wrapper div {
+  flex: 1;
+  text-align: center;
+  font-size: 1.5vw; /* Adjusted font size for responsiveness */
+}
+
+/* Optional: Adjust other styles as needed */
+.wrapper {
+  border-bottom: 1px solid #ccc;
+  font-family: Arial, sans-serif;
+}
+
+/* Additional styles for mobile devices */
+@media (max-width: 600px) {
+  .wrapper div {
+    font-size: 3vw; /* Adjusted font size for smaller screens */
+  }
+}

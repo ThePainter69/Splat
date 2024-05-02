@@ -1,0 +1,59 @@
+.wrapper {
+  width: 90%; /* Adjusted for responsiveness */
+  max-width: 80%; /* Adjusted for responsiveness */
+  margin-top: 20px; /* Adjusted for responsiveness */
+  margin: 20px auto; /* Adjusted for responsiveness */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 2rem;
+  overflow: hidden;
+  background-color: #212530;
+  box-shadow: 5px 5px 5px 0px rgba(0, 255, 234, 0.75); /* Adjusted shadow */
+}
+
+.tableHeader {
+  width: 100%;
+  height: 10vh; /* Adjusted for responsiveness */
+  background-color: #000000;
+  color: #00ffea;
+  display: flex;
+  align-items: center; /* Centered vertically */
+  padding: 2vh 4vw; /* Adjusted padding */
+  justify-content: space-between;
+  border-bottom: 1px solid #00f7ff;
+}
+
+.rows {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2vh; /* Adjusted gap */
+  color: rgb(255, 255, 255);
+  padding: 4vh; /* Added padding */
+}
+
+.amountTitle,
+.addressTitle {
+  font-size: 2vw; /* Adjusted font size for responsiveness */
+  font-weight: bolder;
+  color: #ff00bf;
+}
+
+/* Additional styles for mobile devices */
+@media (max-width: 600px) {
+  .tableHeader {
+    height: 8vh; /* Adjusted for smaller screens */
+    padding: 1.5vh 3vw; /* Adjusted padding for smaller screens */
+  }
+
+  .rows {
+    gap: 1.5vh; /* Adjusted gap for smaller screens */
+    padding: 2vh; /* Adjusted padding for smaller screens */
+  }
+
+  .amountTitle,
+  .addressTitle {
+    font-size: 3.5vw; /* Adjusted font size for smaller screens */
+  }
+}
